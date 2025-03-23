@@ -1,6 +1,6 @@
 # FinChain Intelligence Network (FIN)
 
-![Version](https://img.shields.io/badge/version-0.1.0-blue)
+![Version](https://img.shields.io/badge/version-0.2.0-blue)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![uAgents](https://img.shields.io/badge/uAgents-0.6.0-orange)
