@@ -1,0 +1,106 @@
+# FinChain Intelligence Network (FIN) Configuration
+
+# Core configuration
+use_nlp: true
+enable_agent_affinity: true
+default_agents: 
+  - all  # Can also specify individual agents: blockchain_analyst, crypto_economics, etc.
+
+# Logging configuration
+logging:
+  level: INFO  # DEBUG, INFO, WARNING, ERROR, CRITICAL
+  file: logs/finchain.log
+
+# Web interface configuration
+web_interface:
+  host: 0.0.0.0
+  port: 7860
+  theme: default
+  share: false  # Set to true to create a public URL
+
+# Agent-specific configurations
+blockchain_analyst:
+  supported_networks:
+    - ethereum
+    - solana
+    - avalanche
+    - polygon
+    - bitcoin
+  alert_thresholds:
+    large_transaction: 1000  # ETH/SOL amount that would trigger a large transaction alert
+    suspicious_pattern: 0.85  # Threshold for suspicious pattern detection
+    contract_risk: 0.7  # Threshold for smart contract risk assessment
+  api_keys:
+    etherscan: ${ETHERSCAN_API_KEY}  # Use environment variables for sensitive data
+    infura: ${INFURA_API_KEY}
+
+crypto_economics:
+  defi_protocols_to_track:
+    - uniswap
+    - aave
+    - curve
+    - compound
+    - balancer
+  token_economic_models:
+    - deflationary
+    - inflationary
+    - hybrid
+    - rebase
+  data_sources:
+    - defi_llama
+    - coingecko
+    - dune_analytics
+
+fintech_navigator:
+  news_sources:
+    - bloomberg
+    - reuters
+    - coindesk
+    - defiant
+    - bankless
+  trending_threshold: 0.15  # Minimum growth rate to consider a trend notable
+  regulatory_focus_regions:
+    - us
+    - eu
+    - uk
+    - asia
+  api_keys:
+    financial_news_api: ${FINANCIAL_NEWS_API_KEY}
+
+ml_investment_strategist:
+  risk_profiles:
+    - conservative
+    - moderate
+    - aggressive
+  asset_classes:
+    - stocks
+    - bonds
+    - crypto
+    - commodities
+    - real_estate
+    - cash
+  model_parameters:
+    training_window: 180  # days
+    prediction_horizon: 30  # days
+    confidence_threshold: 0.7  # minimum confidence for recommendations
+  rebalancing_period: quarterly  # daily, weekly, monthly, quarterly
+
+regulatory_compliance:
+  jurisdictions_to_track:
+    - us
+    - eu
+    - uk
+    - sg
+    - in
+    - jp
+  update_frequency: daily  # How often to check for regulatory updates
+  high_priority_regulations:
+    - aml_kyc
+    - gdpr
+    - mica
+    - sec_regulations
+  compliance_frameworks:
+    - iso_27001
+    - pci_dss
+    - nist
+    - rbi_guidelines
