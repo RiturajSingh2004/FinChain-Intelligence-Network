@@ -12,7 +12,7 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-lightgrey)
 
 
-A system of interconnected AI agents designed to provide comprehensive financial intelligence, blockchain analytics, and ML-powered investment insights.
+<b>A system of interconnected AI agents designed to provide comprehensive financial intelligence, blockchain analytics, and ML-powered investment insights.</b>
 
 ## 🌟 Project Overview
 
