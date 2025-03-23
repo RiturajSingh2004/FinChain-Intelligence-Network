@@ -12,7 +12,7 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-lightgrey)
 
 
-**Tags**: `#Blockchain` `#AI` `#FinTech` `#MachineLearning` `#MultiAgent` `#Crypto` `#InvestmentStrategy` `#RegulatoryCompliance` `#DeFi` `#TokenAnalysis`
+**Tags**: `#Blockchain` `#AI` `#FinTech` `#MachineLearning` `#MultiAgent` `#Crypto` `#InvestmentStrategy` `#RegulatoryCompliance` `#DeFi` `#TokenAnalysis` `#FetchAI` `#uAgents` `#SmartContract` `#PortfolioOptimization` `#MLOps` `#FinancialAnalytics` `#EthereumAnalysis` `#ComplianceAutomation` `#MarketIntelligence` `#Tokenomics`
 
 A system of interconnected AI agents designed to provide comprehensive financial intelligence, blockchain analytics, and ML-powered investment insights.
 
