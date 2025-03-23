@@ -12,8 +12,6 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-lightgrey)
 
 
-**Tags**: `#Blockchain` `#AI` `#FinTech` `#MachineLearning` `#MultiAgent` `#Crypto` `#InvestmentStrategy` `#RegulatoryCompliance` `#DeFi` `#TokenAnalysis` `#FetchAI` `#uAgents` `#SmartContract` `#PortfolioOptimization` `#MLOps` `#FinancialAnalytics` `#EthereumAnalysis` `#ComplianceAutomation` `#MarketIntelligence` `#Tokenomics`
-
 A system of interconnected AI agents designed to provide comprehensive financial intelligence, blockchain analytics, and ML-powered investment insights.
 
 ## 🌟 Project Overview
@@ -195,3 +193,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+**Tags**: `#Blockchain` `#AI` `#FinTech` `#MachineLearning` `#MultiAgent` `#Crypto` `#InvestmentStrategy` `#RegulatoryCompliance` `#DeFi` `#TokenAnalysis` `#FetchAI` `#uAgents` `#SmartContract` `#PortfolioOptimization` `#MLOps` `#FinancialAnalytics` `#EthereumAnalysis` `#ComplianceAutomation` `#MarketIntelligence` `#Tokenomics`
