@@ -83,8 +83,8 @@ The system is built using:
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/finchain-intelligence-network.git
-cd finchain-intelligence-network
+git clone https://github.com/RiturajSingh2004/FinChain-Intelligence-Network.git
+cd FinChain-Intelligence-Network
 ```
 
 ### Deployment Options
@@ -121,10 +121,10 @@ python launcher.py
 
 ```bash
 # Build the Docker image
-docker build -t finchain-intelligence-network .
+docker build -t FinChain-Intelligence-Network .
 
 # Run the container
-docker run -p 7860:7860 finchain-intelligence-network
+docker run -p 7860:7860 FinChain-Intelligence-Network
 ```
 
 Once running, open your browser and navigate to `http://localhost:7860` to access the web interface.
@@ -182,8 +182,8 @@ black .
 
 3. Run with Docker:
 ```bash
-docker build -t finchain-intelligence-network .
-docker run -p 7860:7860 finchain-intelligence-network
+docker build -t FinChain-Intelligence-Network .
+docker run -p 7860:7860 FinChain-Intelligence-Network
 ```
 
 ## 📝 License
