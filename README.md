@@ -6,6 +6,13 @@
 ![uAgents](https://img.shields.io/badge/uAgents-0.6.0-orange)
 ![AI](https://img.shields.io/badge/AI-Powered-brightgreen)
 ![Blockchain](https://img.shields.io/badge/Blockchain-Analytics-blueviolet)
+![Gradio](https://img.shields.io/badge/Gradio-UI-ff69b4)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15.0-orange)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.2.1-red)
+![Docker](https://img.shields.io/badge/Docker-Ready-blue)
+![DeFi](https://img.shields.io/badge/DeFi-Analytics-yellow)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-lightgrey)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
 **Tags**: `#Blockchain` `#AI` `#FinTech` `#MachineLearning` `#MultiAgent` `#Crypto` `#InvestmentStrategy` `#RegulatoryCompliance` `#DeFi` `#TokenAnalysis`
 
